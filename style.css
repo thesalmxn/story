@@ -1,0 +1,34 @@
+body {
+    margin: 0px;
+    width: 100%;
+    font-family: 'Cormorant Garamond', serif;
+}
+section{
+    padding-left: 200px;
+    padding-right: 200px;
+    height:100vh;
+}
+.long{
+    height:150vh;
+}
+h1{
+    text-align: center;
+    padding: 20px;
+    font-size: 60px;
+    color:blue;
+}
+h2{
+    text-align: center;
+    padding: 20px;
+    font-size: 80px;
+    color:crimson;
+}
+p{
+    font-size:24px;
+}
+.left-img{
+    float: left;
+}
+.right-img{
+    float: right;
+}
